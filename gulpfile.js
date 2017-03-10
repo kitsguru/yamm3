@@ -7,7 +7,7 @@ var gulp        = require('gulp'),
     htmlhint    = require("gulp-htmlhint");
 
 
-// SOURCES CONFIG 
+// SOURCES CONFIG
 var source = {
   templates: {
     app: {
@@ -24,7 +24,7 @@ var source = {
   }
 };
 
-// BUILD TARGET CONFIG 
+// BUILD TARGET CONFIG
 var build = {
   styles: './yamm',
   templates: {
