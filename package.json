@@ -1,5 +1,5 @@
 {
-  "name": "Yamm",
+  "name": "yamm3",
   "version": "1.1.0",
   "description": "Yet another megamenu for Bootstrap",
   "homepage": "http://geedmo.github.io/yamm3/",
@@ -9,10 +9,9 @@
     "url": "https://github.com/geedmo/yamm3"
   },
   "dependencies": {
-    "gulp": "^3.9.1"
   },
   "devDependencies": {
-    "gulp": "~3.8.11",
+    "gulp": "^3.9.1",
     "gulp-jade": "^1.0.0",
     "gulp-less": "^3.0.2",
     "marked": "~0.3.3",
